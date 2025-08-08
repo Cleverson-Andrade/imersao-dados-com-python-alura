@@ -56,4 +56,4 @@ A etapa final do projeto, onde todo o aprendizado foi consolidado:
 
 ## Autor
 
-**Cleverson Moura Andrae**
+**Cleverson Moura Andrade**
