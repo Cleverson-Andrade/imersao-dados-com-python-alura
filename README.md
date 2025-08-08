@@ -2,8 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto é a culminação da **Imersão de Dados com Python da Alura**, uma jornada de aprendizado que me guiou do zero à criação e publicação de um dashboard interativo. O objetivo principal foi aplicar os conceitos de **Análise de Dados Exploratória (ADE)** e desenvolver uma aplicação web para visualizar e explorar dados salariais na área de dados.
-
+Este projeto é a culminação da **Imersão de Dados com Python da Alura**, uma jornada de aprendizado que me guiou do zero à criação e publicação de um dashboard interativo. 
 O dashboard permite filtrar informações por ano, nível de experiência, tipo de trabalho e tamanho da empresa, fornecendo insights sobre o mercado de trabalho global de forma intuitiva.
 
 ---
