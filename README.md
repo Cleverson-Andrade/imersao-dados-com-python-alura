@@ -53,7 +53,3 @@ A etapa final do projeto, onde todo o aprendizado foi consolidado:
 - **Streamlit Cloud**: Deploy (publicação) da aplicação.
 
 ---
-
-## Autor
-
-**Cleverson Moura Andrade**
