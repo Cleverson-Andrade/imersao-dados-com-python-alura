@@ -2,7 +2,7 @@
 ## Interactive Dashboard: Data Science Salary Analysis
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://imersao-dados-python-alura-cleverson.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+
 
 [English](#english) • [Português](#portugues)
 
