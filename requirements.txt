@@ -1,3 +1,4 @@
-pandas==2.2.3
-streamlit==1.44.1
-plotly==5.24.1
+# Bibliotecas principais para o Dashboard | Core libraries for the Dashboard
+pandas==2.2.3     # Manipulação de dados | Data manipulation
+streamlit==1.44.1  # Interface web do dashboard | Dashboard web interface
+plotly==5.24.1    # Gráficos interativos | Interactive charts
