@@ -1,8 +1,8 @@
 # 📊 Dashboard Interativo: Análise de Salários no Mercado de Dados
 ## Interactive Dashboard: Data Science Salary Analysis
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://imersao-dados-python-alura-cleverson.streamlit.app/)
-
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://imersao-dados-python-alura-cleverson.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 [English](#english) • [Português](#portugues)
 
